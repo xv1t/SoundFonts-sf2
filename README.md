@@ -36,3 +36,4 @@ Comment | Picture
 ------|--------
 Velocity  | ![](http://i75.fastpic.ru/big/2015/1118/c1/33b838b19e2d759a3b3e1c48307796c1.png)
 Instruments map | ![](http://i75.fastpic.ru/big/2015/1118/11/481d1410d6996d213d08c6b40dd26d11.png)
+In Ardour  | ![](http://i74.fastpic.ru/big/2015/1118/7f/d82e5aa9a2da4d891002e725ab8df57f.png)
