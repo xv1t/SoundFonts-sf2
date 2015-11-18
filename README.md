@@ -4,7 +4,7 @@ Compiled sound fonts in sf2
 > Ardour users! This SF2 banks successfully used in "Calf Fluidsynth" plugin
 
 ## Drumkit Flac_GSCW-1
-This drum kit ported from hydrogen library. Link to release file: [Flac_GSCW-1](https://github.com/xv1t/SoundFonts/releases/download/Flac_GSCW-1/Flac_GSCW-1.sf2.bz2)
+This drum kit ported from hydrogen library. Link to release file: [Flac_GSCW-1](https://github.com/xv1t/SoundFonts/releases/download/Flac_GSCW-1/Flac_GSCW-1.sf2.bz2). Step velocity
 
 > List of used instruments maxumum support [GM Standart Drum Map](https://en.wikipedia.org/wiki/General_MIDI#/media/File:GM_Standard_Drum_Map_on_the_keyboard.svg)
 
@@ -30,3 +30,11 @@ Crash 18 choke | 52
 Ride 22 bell | 53
 Splash cymbal | 55
 Crach 18 | 57
+
+Velocity
+
+![](http://i75.fastpic.ru/big/2015/1118/c1/33b838b19e2d759a3b3e1c48307796c1.png)
+
+Instruments map
+
+![](http://i75.fastpic.ru/big/2015/1118/11/481d1410d6996d213d08c6b40dd26d11.png)
