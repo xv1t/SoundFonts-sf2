@@ -31,10 +31,8 @@ Ride 22 bell | 53
 Splash cymbal | 55
 Crach 18 | 57
 
-Velocity
 
-![](http://i75.fastpic.ru/big/2015/1118/c1/33b838b19e2d759a3b3e1c48307796c1.png)
-
-Instruments map
-
-![](http://i75.fastpic.ru/big/2015/1118/11/481d1410d6996d213d08c6b40dd26d11.png)
+Comment | Picture 
+------|--------
+Velocity  | ![](http://i75.fastpic.ru/big/2015/1118/c1/33b838b19e2d759a3b3e1c48307796c1.png)
+Instruments map | ![](http://i75.fastpic.ru/big/2015/1118/11/481d1410d6996d213d08c6b40dd26d11.png)
